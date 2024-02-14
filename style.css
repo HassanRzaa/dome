@@ -8,6 +8,7 @@
     max-width: 1080px;
     display: flex;
     flex-direction: row;
+    margin: 1.3rem auto;
 }
 .navbar{
     display: flex;
